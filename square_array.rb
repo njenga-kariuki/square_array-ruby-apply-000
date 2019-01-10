@@ -5,4 +5,4 @@ def square_array(array)
   square_array = square_array.each {|n| n**2}
 end
 
-puts square_array
+puts square_arra
